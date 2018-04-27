@@ -1,21 +1,21 @@
 {
   "name": "rpcify",
   "description": "RPCify node.js modules",
-  "author": "Byteball",
+  "author": "Millix",
   "version": "0.1.0",
   "main": "rpcify.js",
   "keywords": [
     "rpc",
     "json-rpc",
-    "byteball"
+    "millix"
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/rpcify.git",
+    "url": "git://github.com/millix/rpcify.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/rpcify/issues"
+    "url": "https://github.com/millix/rpcify/issues"
   },
   "dependencies": {
     "json-rpc2": "^1.0.2"
